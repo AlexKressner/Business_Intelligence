@@ -1,2 +1,2 @@
 # Business_Intelligence
-Course material relevant for the 2024 course on business intelligence
+Course material relevant for the 2025 course on business intelligence
